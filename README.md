@@ -11,7 +11,7 @@ Library for customers to integrate Vql feature on their website.
   </div>
 </div>
 ...
-<script src="https://../sharering.query.lib.prod.min.js"></script>    
+<script src="https://raw.githack.com/ShareRing/vql-javascript-library/master/sharering.query.lib.prod.min.js" crossorigin="anonymous"></script>
 <script>
   function onScan(data){
     //do something with result
