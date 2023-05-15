@@ -18,3 +18,7 @@ Library for customers to integrate Vql feature on their website.
   }  
 </script>
 ```
+
+QueryID = ID of the query from the VQL dashboard
+QRCode owner = ShareLedger account linked to the VQL creator
+Key = Encryption key for the data that's transfered. Can be any random key.
