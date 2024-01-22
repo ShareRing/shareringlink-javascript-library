@@ -1,5 +1,5 @@
-# vql-javascript-library
-Library for customers to integrate the Vql feature on their website.
+# shareringlink-javascript-library
+Library for customers to integrate the ShareRing Link feature on their website.
 
 
 # How to use
@@ -11,7 +11,7 @@ Library for customers to integrate the Vql feature on their website.
   </div>
 </div>
 ...
-<script src="https://raw.githack.com/ShareRing/vql-javascript-library/master/sharering.query.lib.prod.min.js" crossorigin="anonymous"></script>
+<script src="https://raw.githack.com/ShareRing/shareringlink-javascript-library/master/sharering.query.lib.prod.min.js" crossorigin="anonymous"></script>
 <script>
   function onScan(data){
     //do something with the result
@@ -22,7 +22,7 @@ Library for customers to integrate the Vql feature on their website.
 </script>
 ```
 
-QueryID = ID of the query from the VQL dashboard
+QueryID = ID of the query from the ShareRing Link dashboard
 
-QRCode owner = ShareLedger account linked to the VQL creator
+QRCode owner = ShareLedger account linked to the ShareRing Link creator
 
